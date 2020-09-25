@@ -2,7 +2,9 @@
 title: "Buoy Project"
 author: "Haoran Su, Haoyu Li, Xijia Luo, Yifan Liu"
 date: "2020/9/24"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
